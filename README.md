@@ -36,3 +36,7 @@ Step 2# Add files to the project as shown in the below path
 			RcbTeamUtil.java -- UTIL class to perform API Testing
 			TeamRcbTest.java  -- Test NG test class, to perform the 
 			testng.xml
+
+Step 3#: Run the Testcases 	TeamRcbTest.java as TestNG application		
+
+Step 4#: The generated result is shown in emailable-report.html
