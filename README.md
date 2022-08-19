@@ -27,3 +27,12 @@ Step 1#:create a new EClipse Maven project with the given dependancies.
 
 
 
+Step 2# Add files to the project as shown in the below path
+
+		C:\EclipseWorkSpace\pracs\src\test\java\testng\
+			Player.java -- plain POJO
+			Team.java   -- plain POJO 
+			TeamRCB.json -- API Call RESPONSE as JSON text
+			RcbTeamUtil.java -- UTIL class to perform API Testing
+			TeamRcbTest.java  -- Test NG test class, to perform the 
+			testng.xml
