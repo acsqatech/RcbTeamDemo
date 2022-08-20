@@ -23,15 +23,15 @@ Step 1#: Create Maven project in ECLIPSE.
 		
 Step 2#
 	Add files to the project as shown in the below path
-		C:\EclipseWorkSpace\pracs\src\test\java\testng\
-			Player.java -- plain POJO
-			Team.java   -- plain POJO 			
+	       C:\EclipseWorkSpace\pracs\src\test\java\testng\
+	       		Player.java -- plain POJO
+			Team.java   -- plain POJO
 			RcbTeamUtil.java -- UTIL class to perform API Testing
-			TeamRcbTest.java  -- Test NG test class, to perform the 
+			TeamRcbTest.java  -- Test NG test class, to perform the FINALtesting/execution of the testcases
 			
 		C:\EclipseWorkSpace\pracs\src\test\resources\
 			TeamRCB.json -- API Call RESPONSE as JSON text
-			
+						
 		C:\EclipseWorkSpace\pracs\src\test\java\testng.xml  -- TestNG Config file			
 			
 Step 3#: Run the Testcases 	TeamRcbTest.java as TestNG application
